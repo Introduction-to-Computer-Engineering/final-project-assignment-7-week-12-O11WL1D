@@ -11,6 +11,6 @@ Description: An alteration to a pre-existing [program](https://learn.sparkfun.co
 
 Link to demo :https://imgur.com/a/MxIc1PZ
  
-Description: A revision to the screen saver program where the multiples of screen saver also detects if the currently evaluated number is odd, even or a prime factor, sending a digital high to pin zero, one or two.
+Description: A revision to the screen saver program where the multiples of screen saver also detects if the currently evaluated number is odd, even or a prime factor, sending a digital high to pin zero, one or two, to light up 3 leds. 
 
  
