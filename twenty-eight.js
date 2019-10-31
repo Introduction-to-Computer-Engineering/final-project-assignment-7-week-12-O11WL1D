@@ -206,7 +206,7 @@ function run() {
 
             }
             if (largest % 2) { pins.analogWritePin(AnalogPin.P1, 1023); pins.analogWritePin(AnalogPin.P0, 0) } else { pins.analogWritePin(AnalogPin.P1, 0); pins.analogWritePin(AnalogPin.P0, 1023) }
-            if (multiple_count > 2) { pins.analogWritePin(AnalogPin.P2, 1023) } else { pins.analogWritePin(AnalogPin.P2, 0) };
+            if (multiple_count = 2) { pins.analogWritePin(AnalogPin.P2, 1023) } else { pins.analogWritePin(AnalogPin.P2, 0) };
 			pins.analogWritePin(AnalogPin.P2, 0)
             multiple_count = 0;
             largest = 0;
