@@ -1,4 +1,4 @@
-##[enable-matrix.js]()
+#[enable-matrix.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-7-week-12-O11WL1D/blob/master/enable-matrix.js)
 
 
 Link to demo: https://imgur.com/a/h4na0j8
