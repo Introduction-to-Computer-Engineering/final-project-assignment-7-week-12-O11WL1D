@@ -23,3 +23,14 @@ link to demo : https://imgur.com/a/SkQ1R7H
 
 Description: A program for the bbc microbit which lights up an external led if a digital low on the B button gpio pin is detected.
  
+
+
+# [manual-calibration.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-7-week-12-O11WL1D/blob/master/manual-calibration.js)
+
+
+link to demo :   https://imgur.com/a/po5zlKN 
+
+Description: A program for the bbc microbit which reads analog signals from an external soil sensor and lights up a corresponding pattern using the 5x5 led matrix.
+
+
+ 
